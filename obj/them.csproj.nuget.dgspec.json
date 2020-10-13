@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zhao/dev/tt/them-tool/them.csproj": {}
+  },
+  "projects": {
+    "/Users/zhao/dev/tt/them-tool/them.csproj": {
+      "version": "0.0.1",
+      "restore": {
+        "projectUniqueName": "/Users/zhao/dev/tt/them-tool/them.csproj",
+        "projectName": "them",
+        "projectPath": "/Users/zhao/dev/tt/them-tool/them.csproj",
+        "packagesPath": "/Users/zhao/.nuget/packages/",
+        "outputPath": "/Users/zhao/dev/tt/them-tool/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zhao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

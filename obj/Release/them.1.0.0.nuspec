@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>them</id>
+    <version>1.0.0</version>
+    <authors>them</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="/Users/zhao/dev/tt/them-tool/obj/DotnetToolSettings.xml" target="tools/netcoreapp3.1/any/DotnetToolSettings.xml" />
+    <file src="/Users/zhao/dev/tt/them-tool/bin/Release/netcoreapp3.1/publish/them.dll" target="tools/netcoreapp3.1/any/them.dll" />
+    <file src="/Users/zhao/dev/tt/them-tool/bin/Release/netcoreapp3.1/publish/them.deps.json" target="tools/netcoreapp3.1/any/them.deps.json" />
+    <file src="/Users/zhao/dev/tt/them-tool/bin/Release/netcoreapp3.1/publish/them.runtimeconfig.json" target="tools/netcoreapp3.1/any/them.runtimeconfig.json" />
+    <file src="/Users/zhao/dev/tt/them-tool/bin/Release/netcoreapp3.1/publish/them.pdb" target="tools/netcoreapp3.1/any/them.pdb" />
+  </files>
+</package>

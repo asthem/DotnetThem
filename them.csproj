@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackAsTool>true</PackAsTool>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>them</RootNamespace>
+    <PackageVersion>0.0.1</PackageVersion>
+    <Authors>kastrcn</Authors>
+  </PropertyGroup>
+
+</Project>

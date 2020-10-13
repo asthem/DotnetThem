@@ -1,0 +1,12 @@
+/Users/zhao/dev/tt/them-tool/bin/Debug/netcoreapp3.1/them-tool.deps.json
+/Users/zhao/dev/tt/them-tool/bin/Debug/netcoreapp3.1/them-tool.runtimeconfig.json
+/Users/zhao/dev/tt/them-tool/bin/Debug/netcoreapp3.1/them-tool.runtimeconfig.dev.json
+/Users/zhao/dev/tt/them-tool/bin/Debug/netcoreapp3.1/them-tool.dll
+/Users/zhao/dev/tt/them-tool/bin/Debug/netcoreapp3.1/them-tool.pdb
+/Users/zhao/dev/tt/them-tool/obj/Debug/netcoreapp3.1/them-tool.csprojAssemblyReference.cache
+/Users/zhao/dev/tt/them-tool/obj/Debug/netcoreapp3.1/them-tool.AssemblyInfoInputs.cache
+/Users/zhao/dev/tt/them-tool/obj/Debug/netcoreapp3.1/them-tool.AssemblyInfo.cs
+/Users/zhao/dev/tt/them-tool/obj/Debug/netcoreapp3.1/them-tool.csproj.CoreCompileInputs.cache
+/Users/zhao/dev/tt/them-tool/obj/Debug/netcoreapp3.1/them-tool.dll
+/Users/zhao/dev/tt/them-tool/obj/Debug/netcoreapp3.1/them-tool.pdb
+/Users/zhao/dev/tt/them-tool/obj/Debug/netcoreapp3.1/them-tool.genruntimeconfig.cache
