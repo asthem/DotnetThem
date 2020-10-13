@@ -36,3 +36,11 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 .idea/
+
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/bin/
+/obj/
